@@ -7,11 +7,8 @@
         		<li><a href="/info">Info</a></li>
     	</ul>
         </nav>
-# Desbloqueo de Fabrica
+
       Desbloquea tu celular para ser utilizado en cualquier compañía desde tan solo 9.99$
-
-## Blacklist/Reportado
-
 
 
 <header> Desbloqueo <header/>
