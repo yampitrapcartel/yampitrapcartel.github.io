@@ -1,13 +1,6 @@
  <html>
  <body>
- <nav>
-    	<ul>
-          <li><a href="/">Home</a></li>
-        		<li><a href="/desbloqueo">Desbloqueo</a></li>
-        		<li><a href="/info">Info</a></li>
-    	</ul>
-        </nav>
-
+ 
       Desbloquea tu celular para ser utilizado en cualquier compañía desde tan solo 9.99$
 
 
