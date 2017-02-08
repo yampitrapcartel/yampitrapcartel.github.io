@@ -8,14 +8,10 @@
     	</ul>
         </nav>
 ## Desbloqueo de Fabrica
+      Desbloquea tu celular para ser utilizado en cualquier compañía desde tan solo 9.99$
 
-You can use the [editor on GitHub](https://github.com/MovilCentro/desbloqueo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Blacklist/Reportado
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
 <header> Desbloqueo <header/>
