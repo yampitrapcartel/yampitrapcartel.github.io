@@ -5061,15 +5061,15 @@ a.thumbnail.active {
   color: inherit;
 }
 .alert-success {
-  background-color: #3fb618;
-  border-color: #4e9f15;
+  background-color: #f4f427;
+  border-color: #f3f716;
   color: #ffffff;
 }
 .alert-success hr {
-  border-top-color: #438912;
+  border-top-color: #eef229;
 }
 .alert-success .alert-link {
-  color: #e6e6e6;
+  color: #eef229;
 }
 .alert-info {
   background-color: #9954bb;
