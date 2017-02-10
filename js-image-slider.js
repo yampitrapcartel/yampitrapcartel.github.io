@@ -1,8 +1,8 @@
  var sliderOptions =
         {
             sliderId: "slider",
-            effect: "17,13,1",
-            effectRandom: true,
+            effect: "17",
+            effectRandom: false,
             pauseTime: 2800,
             transitionTime: 1200,
             slices: 14,
