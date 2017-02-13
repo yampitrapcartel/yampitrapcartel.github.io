@@ -136,6 +136,14 @@
 
     <!-- Map Section -->
     <div id="map"></div>
+    function myMap() {
+    var mapCanvas = document.getElementById("map");
+    var mapOptions = {
+        center: new google.maps.LatLng(18.4490325,-66.055273),
+        zoom: 10
+    };
+    var map = new google.maps.Map(mapCanvas, mapOptions);
+}
 
     <!-- Footer -->
     <footer>
